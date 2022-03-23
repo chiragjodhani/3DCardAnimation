@@ -8,6 +8,7 @@
 import SwiftUI
 
 struct Home: View {
+    
     // MARK: - Animation Properties
     @State var expandCards: Bool = false
     @State var currentCard: Album?
